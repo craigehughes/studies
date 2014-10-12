@@ -1,4 +1,4 @@
-studies
+Studies
 =======
 
-Git for studies
+Git for my studies
